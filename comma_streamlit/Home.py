@@ -45,11 +45,7 @@ counts = db.get_table_counts()
 has_data = any(v > 0 for v in counts.values())
 
 if not has_data:
-    st.warning("👋 Bienvenido. Aún no hay datos cargados. Empieza subiendo tus archivos Excel del POS.")
-    col1, col2 = st.columns([1, 3])
-    with col1:
-        if st.button("📤 Subir mi primer archivo", use_container_width=True, type="primary"):
-            st.switch_page("pages/1_📤_Subir_Datos.py")
+    st.warning("👋 Bienvenido. Aún no hay datos cargados. Usa **📤 Subir Datos** en el menú lateral para empezar.")
 else:
     st.success(f"✓ Datos cargados — {sum(counts.values()):,} registros en total")
 
