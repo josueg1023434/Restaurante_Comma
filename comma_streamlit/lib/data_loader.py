@@ -216,7 +216,7 @@ def normalize_ventas_detalle(df: pd.DataFrame) -> pd.DataFrame:
         mesa = clean_text(r[col_mesa]) if col_mesa else ""
         cliente = clean_text(r[col_cliente]) if col_cliente else ""
 
-        rh = hash_row(fecha, hora, doc, producto, cantidad, subtotal)
+        rh = hash_row(idx, fecha, hora, doc, producto, cantidad, subtotal)
         rows.append({
             "id": idx,
             "fecha": fecha,
@@ -257,6 +257,12 @@ def normalize_ventas_tickets(df: pd.DataFrame) -> pd.DataFrame:
         doc = str(r[col_doc]) if col_doc and pd.notna(r[col_doc]) else ""
         if not doc:
             continue
+        # Filtrar filas de resumen/subtotal que no son tickets reales
+        doc_upper = doc.strip().upper()
+        if doc_upper in ("FACTURA", "TOTAL", "SUBTOTAL", "DOCUMENTO", "NAN", ""):
+            continue
+        if doc_upper.startswith("TOTAL") or doc_upper.startswith("SUBTOTAL"):
+            continue
         rows.append({
             "documento": doc,
             "fecha": fecha,
@@ -292,7 +298,7 @@ def normalize_ventas_pagos(df: pd.DataFrame) -> pd.DataFrame:
         monto = safe_float(r[col_monto]) if col_monto else 0.0
         if monto == 0:
             continue
-        rh = hash_row(fecha, doc, forma, banco, monto)
+        rh = hash_row(idx, fecha, doc, forma, banco, monto)
         rows.append({
             "id": idx,
             "documento": doc,
@@ -393,35 +399,39 @@ def ingest_file(file, conn) -> dict:
     try:
         if file_type == "inventario":
             # Inventario es snapshot: reemplazar todo
+            # Primero dedup dentro del propio archivo por código
+            df_norm = df_norm.drop_duplicates(subset=["codigo"], keep="last")
             conn.execute("DELETE FROM inventario")
             conn.register("temp_df", df_norm)
             conn.execute("INSERT INTO inventario SELECT * FROM temp_df")
             conn.unregister("temp_df")
             result["filas_insertadas"] = len(df_norm)
         else:
-            # Ventas: insertar con detección de duplicados
+            # Ventas: pk depende del tipo
             tabla = file_type
-            conn.register("temp_df", df_norm)
-
-            # Detectar duplicados existentes
             if file_type == "ventas_tickets":
                 pk_col = "documento"
             else:
                 pk_col = "row_hash"
 
+            # 1) Dedup dentro del propio archivo
+            dup_in_file = len(df_norm) - len(df_norm.drop_duplicates(subset=[pk_col]))
+            df_norm = df_norm.drop_duplicates(subset=[pk_col], keep="first")
+
+            # 2) Quitar los que ya existen en BD
             existing = conn.execute(
                 f"SELECT {pk_col} FROM {tabla}"
             ).fetchdf()[pk_col].tolist()
 
             df_new = df_norm[~df_norm[pk_col].isin(existing)]
-            duplicados = len(df_norm) - len(df_new)
+            dup_in_db = len(df_norm) - len(df_new)
+            duplicados = dup_in_file + dup_in_db
 
             if not df_new.empty:
                 conn.register("temp_df_new", df_new)
                 conn.execute(f"INSERT INTO {tabla} SELECT * FROM temp_df_new")
                 conn.unregister("temp_df_new")
 
-            conn.unregister("temp_df")
             result["filas_insertadas"] = len(df_new)
             result["filas_duplicadas"] = duplicados
 
