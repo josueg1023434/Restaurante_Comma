@@ -70,8 +70,19 @@ if uploaded_files:
                 else:
                     st.error("⚠️ No se pudo detectar el tipo de archivo")
 
-                st.dataframe(df_preview.head(5), use_container_width=True)
+                # Intentar mostrar preview; si falla por dupes, mostrar versión limpia
+                try:
+                    st.dataframe(df_preview.head(5), use_container_width=True)
+                except Exception:
+                    # Fallback: convertir todo a string para evitar problemas de Arrow
+                    df_safe = df_preview.head(5).astype(str)
+                    # Forzar nombres únicos
+                    df_safe.columns = [f"{c}_{i}" if list(df_safe.columns).count(c) > 1
+                                       else c for i, c in enumerate(df_safe.columns)]
+                    st.dataframe(df_safe, use_container_width=True)
+
                 st.caption(f"{len(df_preview):,} filas × {len(df_preview.columns)} columnas")
+                st.caption(f"Columnas: {', '.join(df_preview.columns[:10])}...")
             except Exception as e:
                 st.error(f"Error leyendo: {e}")
             st.markdown("---")
