@@ -16,12 +16,30 @@ import numpy as np
 # DETECCIÓN DE TIPO DE ARCHIVO
 # ============================================================
 
-# Firmas de cada tipo (palabras clave en columnas)
+# Firmas de cada tipo
+# - 'must_have': si alguna está presente, es señal fuerte de este tipo
+# - 'keywords': matching de keywords genéricos (suma de score)
 SIGNATURES = {
-    "ventas_detalle": ["articulo", "cantidad", "mesero", "precio"],
-    "ventas_tickets": ["documento", "total", "mesero", "subtotal"],
-    "ventas_pagos": ["forma", "pago", "banco"],
-    "inventario": ["existencia", "linea", "costo"],
+    "ventas_detalle": {
+        "must_have": ["articulo", "producto"],  # detalle SIEMPRE tiene producto/artículo
+        "keywords": ["articulo", "producto", "cantidad", "precio_unitario", "categoria", "linea"],
+        "must_not": ["forma_pago", "forma_de_pago", "existencia"],
+    },
+    "ventas_tickets": {
+        "must_have": ["documento"],
+        "keywords": ["documento", "total", "subtotal", "iva", "cliente", "estado"],
+        "must_not": ["articulo", "producto", "cantidad", "forma_de_pago", "forma_pago", "existencia"],
+    },
+    "ventas_pagos": {
+        "must_have": ["forma_de_pago", "forma_pago"],
+        "keywords": ["forma_pago", "forma_de_pago", "banco", "transaccion", "monto"],
+        "must_not": ["existencia", "articulo"],
+    },
+    "inventario": {
+        "must_have": ["existencia"],
+        "keywords": ["existencia", "linea", "codigo", "costo_promedio", "unidades"],
+        "must_not": ["documento", "fecha"],
+    },
 }
 
 
@@ -60,21 +78,32 @@ def deduplicate_columns(cols: list) -> list:
 
 def detect_file_type(df: pd.DataFrame) -> Optional[str]:
     """
-    Detecta el tipo de archivo basándose en las columnas presentes.
-    Devuelve el tipo o None si no logra identificarlo.
+    Detecta el tipo de archivo con prioridad por must_have y must_not,
+    y desempate por cantidad de keywords coincidentes.
     """
-    cols_normalized = " ".join(normalize_col(c) for c in df.columns)
+    cols = set(normalize_col(c) for c in df.columns)
 
-    scores = {}
-    for file_type, keywords in SIGNATURES.items():
-        score = sum(1 for kw in keywords if kw in cols_normalized)
-        scores[file_type] = score
+    candidates = []
+    for file_type, sig in SIGNATURES.items():
+        # Descartar si tiene columnas que NO debería tener
+        if any(must_not in cols for must_not in sig.get("must_not", [])):
+            continue
 
-    best_type = max(scores, key=scores.get)
-    # Necesita al menos 2 keywords matching
-    if scores[best_type] >= 2:
-        return best_type
-    return None
+        # Debe tener al menos una de las must_have
+        must_have_match = any(mh in cols for mh in sig.get("must_have", []))
+        if not must_have_match:
+            continue
+
+        # Score por keywords presentes
+        score = sum(1 for kw in sig.get("keywords", []) if kw in cols)
+        candidates.append((file_type, score))
+
+    if not candidates:
+        return None
+
+    # Mejor candidato por score
+    candidates.sort(key=lambda x: x[1], reverse=True)
+    return candidates[0][0]
 
 
 def read_excel_safe(file) -> pd.DataFrame:
