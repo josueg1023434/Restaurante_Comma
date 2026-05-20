@@ -26,7 +26,8 @@ SIGNATURES = {
 
 
 def normalize_col(col: str) -> str:
-    """Normaliza un nombre de columna: lowercase, sin tildes, sin espacios."""
+    """Normaliza un nombre de columna: lowercase, sin tildes, sin espacios.
+    También quita sufijos .1, .2 que pandas agrega a columnas duplicadas."""
     if not isinstance(col, str):
         col = str(col)
     # Quitar tildes
@@ -34,9 +35,27 @@ def normalize_col(col: str) -> str:
     col = "".join(c for c in col if unicodedata.category(c) != "Mn")
     # Lowercase y limpiar
     col = col.lower().strip()
+    # Quitar sufijos numéricos tipo .1, .2 que pandas agrega
+    col = re.sub(r"\.\d+$", "", col)
     col = re.sub(r"[^a-z0-9]+", "_", col)
     col = col.strip("_")
+    if not col:
+        col = "col"
     return col
+
+
+def deduplicate_columns(cols: list) -> list:
+    """Si hay nombres duplicados, agrega sufijo _2, _3, etc."""
+    seen = {}
+    result = []
+    for c in cols:
+        if c in seen:
+            seen[c] += 1
+            result.append(f"{c}_{seen[c]}")
+        else:
+            seen[c] = 1
+            result.append(c)
+    return result
 
 
 def detect_file_type(df: pd.DataFrame) -> Optional[str]:
@@ -85,6 +104,8 @@ def read_excel_safe(file) -> pd.DataFrame:
 
     # Normalizar nombres de columnas
     df.columns = [normalize_col(c) for c in df.columns]
+    # Resolver duplicados (ej: dos columnas 'iva' → 'iva', 'iva_2')
+    df.columns = deduplicate_columns(list(df.columns))
     return df
 
 
