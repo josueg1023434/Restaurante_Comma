@@ -3,6 +3,14 @@ Estilos CSS personalizados para Streamlit.
 Look glassmorphism dark consistente con el dashboard HTML original.
 """
 
+# Constantes de color (también disponibles en charts.py)
+COLOR_PRIMARY = "#8b5cf6"
+COLOR_SECONDARY = "#14b8a6"
+COLOR_ACCENT = "#f59e0b"
+COLOR_DANGER = "#ef4444"
+COLOR_SUCCESS = "#10b981"
+
+
 CUSTOM_CSS = """
 <style>
     /* ========== TOKENS ========== */
