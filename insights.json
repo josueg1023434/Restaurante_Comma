@@ -1,0 +1,3582 @@
+{
+  "topArticles": [
+    {
+      "name": "DE LA CASA",
+      "cat": "COCINAS",
+      "qty": 1068,
+      "revenue": 7743
+    },
+    {
+      "name": "KETO MOJADA",
+      "cat": "COCINAS",
+      "qty": 482,
+      "revenue": 5059.95
+    },
+    {
+      "name": "BONELESS FRIES",
+      "cat": "COCINAS",
+      "qty": 567,
+      "revenue": 3798.9
+    },
+    {
+      "name": "Smoked Fries",
+      "cat": "COCINAS",
+      "qty": 524,
+      "revenue": 3508.79
+    },
+    {
+      "name": "8 boneless wings",
+      "cat": "COCINAS",
+      "qty": 491,
+      "revenue": 3289.03
+    },
+    {
+      "name": "Menu navideño 2 proteinas",
+      "cat": "COCINAS",
+      "qty": 159,
+      "revenue": 3284.32
+    },
+    {
+      "name": "COSTILLA ST. LOUIS 400 gr.",
+      "cat": "COCINAS",
+      "qty": 207,
+      "revenue": 3229.2
+    },
+    {
+      "name": "LIMONADA DE FRUTOS ROJOS",
+      "cat": "BEBIDAS",
+      "qty": 974,
+      "revenue": 2727.2
+    },
+    {
+      "name": "DE TODO (SAL)",
+      "cat": "COCINAS",
+      "qty": 186,
+      "revenue": 2697
+    },
+    {
+      "name": "PAPAS COMMA",
+      "cat": "COCINAS",
+      "qty": 136,
+      "revenue": 2352.8
+    },
+    {
+      "name": "coca personal 500ml",
+      "cat": "BEBIDAS",
+      "qty": 1019,
+      "revenue": 2292.74
+    },
+    {
+      "name": "BACON MADNESS",
+      "cat": "COCINAS",
+      "qty": 355,
+      "revenue": 2236.5
+    },
+    {
+      "name": "CHEESE BURGUER SIMPLE",
+      "cat": "COCINAS",
+      "qty": 402,
+      "revenue": 2007.5
+    },
+    {
+      "name": "HOUSTON BURGER",
+      "cat": "COCINAS",
+      "qty": 279,
+      "revenue": 1953
+    },
+    {
+      "name": "LIMONADA MARACUYA Y MANGO",
+      "cat": "BEBIDAS",
+      "qty": 539,
+      "revenue": 1751.75
+    }
+  ],
+  "topByQty": [
+    {
+      "name": "PAN ENTRADA",
+      "cat": "BEBIDAS",
+      "qty": 4445,
+      "revenue": 0
+    },
+    {
+      "name": "PANES",
+      "cat": "BEBIDAS",
+      "qty": 3644,
+      "revenue": 0
+    },
+    {
+      "name": "ALITA UNIDAD",
+      "cat": "COCINAS",
+      "qty": 1841,
+      "revenue": 920.4
+    },
+    {
+      "name": "DE LA CASA",
+      "cat": "COCINAS",
+      "qty": 1068,
+      "revenue": 7743
+    },
+    {
+      "name": "coca personal 500ml",
+      "cat": "BEBIDAS",
+      "qty": 1019,
+      "revenue": 2292.74
+    },
+    {
+      "name": "LLEVAR DOMICILIO",
+      "cat": "COCINAS",
+      "qty": 983,
+      "revenue": 737.1
+    },
+    {
+      "name": "LIMONADA DE FRUTOS ROJOS",
+      "cat": "BEBIDAS",
+      "qty": 974,
+      "revenue": 2727.2
+    },
+    {
+      "name": "AGUA",
+      "cat": "BEBIDAS",
+      "qty": 662,
+      "revenue": 1257.81
+    },
+    {
+      "name": "ICE TEA LEMONADA",
+      "cat": "BEBIDAS",
+      "qty": 614,
+      "revenue": 1534.5
+    },
+    {
+      "name": "LLEVAR LOCAL",
+      "cat": "COCINAS",
+      "qty": 608,
+      "revenue": 304
+    }
+  ],
+  "byCategory": [
+    {
+      "name": "COCINAS",
+      "qty": 12735,
+      "revenue": 77628.6
+    },
+    {
+      "name": "BEBIDAS",
+      "qty": 16703,
+      "revenue": 23113.75
+    },
+    {
+      "name": "WAFFLESS",
+      "qty": 1541,
+      "revenue": 8341.18
+    },
+    {
+      "name": "CAFETERIA",
+      "qty": 736,
+      "revenue": 1620.94
+    },
+    {
+      "name": "COCTELERIA",
+      "qty": 224,
+      "revenue": 1053.15
+    },
+    {
+      "name": "CAJA",
+      "qty": 9,
+      "revenue": 144.12
+    },
+    {
+      "name": "null",
+      "qty": 20,
+      "revenue": 142
+    },
+    {
+      "name": "POSTRES",
+      "qty": 238,
+      "revenue": 5.5
+    },
+    {
+      "name": "PANES",
+      "qty": 1,
+      "revenue": 5.5
+    }
+  ],
+  "byMesero": [
+    {
+      "name": "ERICK",
+      "qty": 8784,
+      "revenue": 31715.35,
+      "tickets": 1325
+    },
+    {
+      "name": "MICHAEL",
+      "qty": 5096,
+      "revenue": 16433.32,
+      "tickets": 682
+    },
+    {
+      "name": "DANIELA",
+      "qty": 3984,
+      "revenue": 13261.97,
+      "tickets": 556
+    },
+    {
+      "name": "JEFE",
+      "qty": 2955,
+      "revenue": 10520.2,
+      "tickets": 496
+    },
+    {
+      "name": "MABEL 2.0",
+      "qty": 2958,
+      "revenue": 10301.93,
+      "tickets": 399
+    },
+    {
+      "name": "JOSUE",
+      "qty": 2621,
+      "revenue": 9388.82,
+      "tickets": 370
+    },
+    {
+      "name": "ANDRE",
+      "qty": 2127,
+      "revenue": 7344.12,
+      "tickets": 306
+    },
+    {
+      "name": "DAVID ADMIN",
+      "qty": 1441,
+      "revenue": 6184.91,
+      "tickets": 198
+    },
+    {
+      "name": "KERLY",
+      "qty": 1385,
+      "revenue": 4167.79,
+      "tickets": 182
+    },
+    {
+      "name": "DANIELB-",
+      "qty": 518,
+      "revenue": 1679.77,
+      "tickets": 61
+    },
+    {
+      "name": "CRIS ADMI",
+      "qty": 206,
+      "revenue": 662.64,
+      "tickets": 20
+    },
+    {
+      "name": "RUNFOOD",
+      "qty": 64,
+      "revenue": 234.34,
+      "tickets": 9
+    },
+    {
+      "name": "DANI",
+      "qty": 47,
+      "revenue": 96,
+      "tickets": 3
+    },
+    {
+      "name": "MELANI",
+      "qty": 21,
+      "revenue": 63.61,
+      "tickets": 4
+    }
+  ],
+  "salesSummary": {
+    "facturas": 4612,
+    "totalGross": 112063.56,
+    "totalIva": 1209.22,
+    "propina": 0,
+    "avgTicket": 24.3,
+    "periodFirst": "2025-12",
+    "periodLast": "2026-04"
+  },
+  "monthly": [
+    {
+      "month": "2025-12",
+      "revenue": 26648.9,
+      "tickets": 983,
+      "avg": 27.11
+    },
+    {
+      "month": "2026-01",
+      "revenue": 24458.25,
+      "tickets": 1022,
+      "avg": 23.93
+    },
+    {
+      "month": "2026-02",
+      "revenue": 23317.7,
+      "tickets": 983,
+      "avg": 23.72
+    },
+    {
+      "month": "2026-03",
+      "revenue": 22098.78,
+      "tickets": 939,
+      "avg": 23.53
+    },
+    {
+      "month": "2026-04",
+      "revenue": 15539.93,
+      "tickets": 685,
+      "avg": 22.69
+    }
+  ],
+  "dayOfWeek": [
+    {
+      "day": "Dom",
+      "revenue": 15646.48,
+      "count": 643,
+      "avg": 24.33
+    },
+    {
+      "day": "Lun",
+      "revenue": 0,
+      "count": 0,
+      "avg": 0
+    },
+    {
+      "day": "Mar",
+      "revenue": 10706.71,
+      "count": 447,
+      "avg": 23.95
+    },
+    {
+      "day": "Mié",
+      "revenue": 10816.97,
+      "count": 459,
+      "avg": 23.57
+    },
+    {
+      "day": "Jue",
+      "revenue": 13318.95,
+      "count": 546,
+      "avg": 24.39
+    },
+    {
+      "day": "Vie",
+      "revenue": 30538.34,
+      "count": 1201,
+      "avg": 25.43
+    },
+    {
+      "day": "Sáb",
+      "revenue": 31036.11,
+      "count": 1316,
+      "avg": 23.58
+    }
+  ],
+  "hourly": [
+    {
+      "hour": 0,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 1,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 2,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 3,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 4,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 5,
+      "revenue": 578.23,
+      "count": 26
+    },
+    {
+      "hour": 6,
+      "revenue": 831.95,
+      "count": 37
+    },
+    {
+      "hour": 7,
+      "revenue": 563.14,
+      "count": 21
+    },
+    {
+      "hour": 8,
+      "revenue": 627.84,
+      "count": 23
+    },
+    {
+      "hour": 9,
+      "revenue": 1455.41,
+      "count": 56
+    },
+    {
+      "hour": 10,
+      "revenue": 1829.09,
+      "count": 60
+    },
+    {
+      "hour": 11,
+      "revenue": 1896.45,
+      "count": 74
+    },
+    {
+      "hour": 12,
+      "revenue": 1576.67,
+      "count": 58
+    },
+    {
+      "hour": 13,
+      "revenue": 2334.52,
+      "count": 105
+    },
+    {
+      "hour": 14,
+      "revenue": 4111.41,
+      "count": 177
+    },
+    {
+      "hour": 15,
+      "revenue": 6696.04,
+      "count": 313
+    },
+    {
+      "hour": 16,
+      "revenue": 15761.58,
+      "count": 631
+    },
+    {
+      "hour": 17,
+      "revenue": 33556.55,
+      "count": 1424
+    },
+    {
+      "hour": 18,
+      "revenue": 39808.43,
+      "count": 1595
+    },
+    {
+      "hour": 19,
+      "revenue": 436.25,
+      "count": 12
+    },
+    {
+      "hour": 20,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 21,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 22,
+      "revenue": 0,
+      "count": 0
+    },
+    {
+      "hour": 23,
+      "revenue": 0,
+      "count": 0
+    }
+  ],
+  "despacho": [
+    {
+      "type": "JARDÍN",
+      "revenue": 56791.01,
+      "count": 2261
+    },
+    {
+      "type": "SALÓN",
+      "revenue": 45850.26,
+      "count": 1833
+    },
+    {
+      "type": "OTRO",
+      "revenue": 4037.68,
+      "count": 219
+    },
+    {
+      "type": "PARA LLEVAR",
+      "revenue": 2731.82,
+      "count": 159
+    },
+    {
+      "type": "BARRA",
+      "revenue": 1759.76,
+      "count": 91
+    },
+    {
+      "type": "DOMICILIO",
+      "revenue": 893.03,
+      "count": 49
+    }
+  ],
+  "paymentMethods": [
+    {
+      "name": "TARJETA DEBITO",
+      "count": 2210,
+      "revenue": 55922.42
+    },
+    {
+      "name": "EFECTIVO",
+      "count": 1401,
+      "revenue": 28503.88
+    },
+    {
+      "name": "TRANSFERENCIA",
+      "count": 1053,
+      "revenue": 25249.83
+    },
+    {
+      "name": "CONSUMOS",
+      "count": 63,
+      "revenue": 1344.77
+    },
+    {
+      "name": "PEDIDOS YA",
+      "count": 46,
+      "revenue": 738.46
+    },
+    {
+      "name": "TARJETA CREDITO",
+      "count": 6,
+      "revenue": 149.3
+    },
+    {
+      "name": "OTROS",
+      "count": 4,
+      "revenue": 146.1
+    }
+  ],
+  "cancellations": {
+    "total": 111,
+    "sample": [
+      {
+        "mesa": "SALON # 5",
+        "monto": 2.8,
+        "motivo": "SE CANCELO EN LA CUENTA DE FELIPE"
+      },
+      {
+        "mesa": "JARDIN # 2",
+        "monto": 0,
+        "motivo": "panes que no pasaron"
+      },
+      {
+        "mesa": "DOMICILIO",
+        "monto": 24,
+        "motivo": "NO CONFIRMO EL PEDIDO"
+      },
+      {
+        "mesa": "JARDIN # 8",
+        "monto": 0,
+        "motivo": "pan de entrada de la mesa"
+      },
+      {
+        "mesa": "SALON # 11",
+        "monto": 0,
+        "motivo": "YA FUE ANULADA"
+      },
+      {
+        "mesa": "SALON # 1",
+        "monto": 0,
+        "motivo": "ANULAR COMANDAN MAL PANES DE ENTRADA"
+      },
+      {
+        "mesa": "CASAS # 10",
+        "monto": 8.25,
+        "motivo": "PRUEBA CAJA"
+      },
+      {
+        "mesa": "SALON # 10",
+        "monto": 28.65,
+        "motivo": "se esta comandando solo"
+      },
+      {
+        "mesa": "SALON # 8",
+        "monto": 27.15,
+        "motivo": "se esta comandando solo"
+      },
+      {
+        "mesa": "SALON # 5",
+        "monto": 34.9,
+        "motivo": "se esta comandando solo"
+      }
+    ]
+  },
+  "inventory": {
+    "items": 276,
+    "negativeStock": 189,
+    "positiveStock": 22,
+    "topNegative": [
+      {
+        "linea": "Total",
+        "articulo": "275",
+        "existencia": -9342
+      },
+      {
+        "linea": "EXTRA",
+        "articulo": "ALITA UNIDAD",
+        "existencia": -2213
+      },
+      {
+        "linea": "HAMBURGUESAS",
+        "articulo": "DE LA CASA",
+        "existencia": -1068
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION CHEDAR LIQUIDO 5 GR",
+        "existencia": -994
+      },
+      {
+        "linea": "LLEVAR",
+        "articulo": "LLEVAR DOMICILIO",
+        "existencia": -983
+      },
+      {
+        "linea": "BEBIDAS",
+        "articulo": "LIMONADA DE FRUTOS ROJOS",
+        "existencia": -974
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION PAPAS  CONGELADAS PARA FREIR",
+        "existencia": -941
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION HELADO 25GR",
+        "existencia": -911
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION DE TOCINETA AHUMADA",
+        "existencia": -782
+      },
+      {
+        "linea": "PARA COMPARTIR",
+        "articulo": "8 BONELESS WINGS",
+        "existencia": -705
+      }
+    ],
+    "lowStock": [
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION DE POLLO MILANESA",
+        "existencia": 2,
+        "costo": 0
+      },
+      {
+        "linea": "BEBIDAS",
+        "articulo": "AGUA CON GAS (GUITIG)",
+        "existencia": 3,
+        "costo": 102
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "RECETA MAYONESAS",
+        "existencia": 5,
+        "costo": 0
+      },
+      {
+        "linea": "BEBIDAS",
+        "articulo": "COCA CERO",
+        "existencia": 7,
+        "costo": 57.303609
+      },
+      {
+        "linea": "BEBIDAS",
+        "articulo": "DR PEPPER",
+        "existencia": 9,
+        "costo": 22
+      },
+      {
+        "linea": "MATERIA PRIMA",
+        "articulo": "PORCION DE CARNE MECHADA",
+        "existencia": 9,
+        "costo": 1.89
+      },
+      {
+        "linea": "BEBIDAS",
+        "articulo": "AGUA (DASANI)",
+        "existencia": 10,
+        "costo": 20.708515
+      }
+    ],
+    "totalValue": 7323.46
+  },
+  "profitability": [
+    {
+      "cat": "COCINAS",
+      "linea": "HAMBURGUESAS",
+      "articulo": "DE LA CASA",
+      "cant": 1068,
+      "total": 7743,
+      "costo": 0,
+      "utilidad": 7743,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "HAMBURGUESAS",
+      "articulo": "KETO MOJADA",
+      "cant": 482,
+      "total": 5059.95,
+      "costo": 0,
+      "utilidad": 5059.95,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "Smoked Fries",
+      "cant": 716,
+      "total": 4793.85,
+      "costo": 67.2,
+      "utilidad": 4726.65,
+      "margen": 98.6
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "8 boneless wings",
+      "cant": 705,
+      "total": 4721.49,
+      "costo": 0,
+      "utilidad": 4721.49,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "BONELESS FRIES",
+      "cant": 567,
+      "total": 3798.9,
+      "costo": 0,
+      "utilidad": 3798.9,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "Menu navideño 2 proteinas",
+      "cant": 159,
+      "total": 3284.32,
+      "costo": 0,
+      "utilidad": 3284.32,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "FUERTES",
+      "articulo": "COSTILLA ST. LOUIS 400 gr.",
+      "cant": 207,
+      "total": 3229.2,
+      "costo": 0,
+      "utilidad": 3229.2,
+      "margen": 100
+    },
+    {
+      "cat": "BEBIDAS",
+      "linea": "BEBIDAS",
+      "articulo": "LIMONADA DE FRUTOS ROJOS",
+      "cant": 974,
+      "total": 2727.2,
+      "costo": 0,
+      "utilidad": 2727.2,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "DE TODO (SAL)",
+      "cant": 186,
+      "total": 2697,
+      "costo": 0,
+      "utilidad": 2697,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "PARA COMPARTIR",
+      "articulo": "PAPAS COMMA",
+      "cant": 136,
+      "total": 2352.8,
+      "costo": 0,
+      "utilidad": 2352.8,
+      "margen": 100
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "HAMBURGUESAS",
+      "articulo": "BACON MADNESS",
+      "cant": 355,
+      "total": 2236.5,
+      "costo": 60.6,
+      "utilidad": 2175.9,
+      "margen": 97.29
+    },
+    {
+      "cat": "COCINAS",
+      "linea": "HAMBURGUESAS",
+      "articulo": "La Keto",
+      "cant": 249,
+      "total": 2114.8,
+      "costo": 0,
+      "utilidad": 2114.8,
+      "margen": 100
+    }
+  ],
+  "topClients": [
+    {
+      "name": "Sin nombre",
+      "cedula": "Registros 16,634",
+      "qty": 4.612,
+      "total": 112063.56,
+      "utilidad": 108621.02,
+      "margen": 98.08
+    },
+    {
+      "name": "Ramiro Lopez",
+      "cedula": "RUC 1801848167001",
+      "qty": 16,
+      "total": 783.76,
+      "utilidad": 776.47,
+      "margen": 99.47
+    },
+    {
+      "name": "Melanie Peralta",
+      "cedula": "CED 1805795588",
+      "qty": 9,
+      "total": 594.67,
+      "utilidad": 572.46,
+      "margen": 97.58
+    },
+    {
+      "name": "Monica Cortes",
+      "cedula": "CED 1801897164",
+      "qty": 1,
+      "total": 570.2,
+      "utilidad": 570.2,
+      "margen": 100
+    },
+    {
+      "name": "IVAN DARIO AILLON",
+      "cedula": "RUC 1803276441001",
+      "qty": 1,
+      "total": 528.7,
+      "utilidad": 506.33,
+      "margen": 97.33
+    },
+    {
+      "name": "FABIOLA SANCHEZ",
+      "cedula": "CED 1800878306",
+      "qty": 1,
+      "total": 428.55,
+      "utilidad": 428.55,
+      "margen": 100
+    },
+    {
+      "name": "PATRICIO RIOS",
+      "cedula": "CED 1803091709",
+      "qty": 3,
+      "total": 402.74,
+      "utilidad": 398.93,
+      "margen": 100
+    },
+    {
+      "name": "TORRES RODRIGUEZ JAIME RODRIGO",
+      "cedula": "RUC 1801637255001",
+      "qty": 1,
+      "total": 358.46,
+      "utilidad": 358.46,
+      "margen": 100
+    },
+    {
+      "name": "Erick Ojeda La Bestia",
+      "cedula": "CED 1850797273",
+      "qty": 6,
+      "total": 326.04,
+      "utilidad": 317.44,
+      "margen": 98.41
+    },
+    {
+      "name": "GUEVARA VASCO CIA LTDA",
+      "cedula": "RUC 1891718094001",
+      "qty": 3,
+      "total": 322.83,
+      "utilidad": 278.21,
+      "margen": 88.69
+    }
+  ],
+  "inventoryFull": [
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "1",
+      "articulo": "ESPRESSO",
+      "costo": 0,
+      "existencia": -16,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "6",
+      "articulo": "FRUTOS ROJOS",
+      "costo": 0,
+      "existencia": -46,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "15",
+      "articulo": "MILKSHAKE NUTELLA",
+      "costo": 0,
+      "existencia": -94,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "19",
+      "articulo": "LIMONADA DE FRUTOS ROJOS",
+      "costo": 0,
+      "existencia": -974,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "21",
+      "articulo": "LIMONADA CLASICA",
+      "costo": 0,
+      "existencia": -513,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "31",
+      "articulo": "AGUA (DASANI)",
+      "costo": 20.708515,
+      "existencia": 10,
+      "unidades": 0,
+      "valor": 207.08515
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "39",
+      "articulo": "AMERICANO CAFE",
+      "costo": 0,
+      "existencia": -118,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "52",
+      "articulo": "AMANTES DE LA CARNE",
+      "costo": 0,
+      "existencia": -73,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "55",
+      "articulo": "INFUSIONES",
+      "costo": 0,
+      "existencia": -143,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "FUERTES",
+      "codigo": "57",
+      "articulo": "COSTILLA ST. LOUIS 400 gr.",
+      "costo": 0,
+      "existencia": -207,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "FUERTES",
+      "codigo": "58",
+      "articulo": "COSTILLA ST. LOUIS 800gr",
+      "costo": 0,
+      "existencia": -23,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "60",
+      "articulo": "DE TODO (SAL)",
+      "costo": 0,
+      "existencia": -186,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "81",
+      "articulo": "CHEESE BURGUER DOBLE",
+      "costo": 0,
+      "existencia": -148,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "AREPAS",
+      "codigo": "85",
+      "articulo": "AREPA DE QUESO",
+      "costo": 0,
+      "existencia": -10,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "89",
+      "articulo": "CERVEZA NACIONAL CLUB",
+      "costo": 14.207593,
+      "existencia": 50,
+      "unidades": 0,
+      "valor": 710.37965
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "119",
+      "articulo": "HELADO 1 BOLA",
+      "costo": 0,
+      "existencia": -15,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "121",
+      "articulo": "HELADO 2 BOLAS",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "128",
+      "articulo": "CAPPUCCINO",
+      "costo": 0,
+      "existencia": -131,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LLEVAR",
+      "codigo": "132",
+      "articulo": "LLEVAR LOCAL",
+      "costo": 0,
+      "existencia": -608,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "133",
+      "articulo": "PORCION PAPAS",
+      "costo": 0,
+      "existencia": -186,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "134",
+      "articulo": "EXTRA NUTELLA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "141",
+      "articulo": "EXTRA CARNE HAMBURGUESA",
+      "costo": 0,
+      "existencia": -15,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "150",
+      "articulo": "EXTRA CEBOLLA CARAMELIZADA",
+      "costo": 0,
+      "existencia": -5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "152",
+      "articulo": "EXTRA TOCINO",
+      "costo": 0,
+      "existencia": -10,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "155",
+      "articulo": "LIMONADA IMPERIAL FRUTOS ROJOS",
+      "costo": 0,
+      "existencia": -125,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "158",
+      "articulo": "EXTRA HUEVO FRITO",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "162",
+      "articulo": "EXTRA GUACAMOLE",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "171",
+      "articulo": "SPRITE",
+      "costo": 5.183551,
+      "existencia": 12,
+      "unidades": 0,
+      "valor": 62.202612
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "195",
+      "articulo": "EXTRA CHORIZO (2)",
+      "costo": 0,
+      "existencia": -4,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "197",
+      "articulo": "EXTRA BBQ",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "AREPAS",
+      "codigo": "201",
+      "articulo": "AREPA MIXTA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "217",
+      "articulo": "EXTRA ENSALADA DE GUARNICION",
+      "costo": 0,
+      "existencia": -20,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "233",
+      "articulo": "EXTRA CREMA CHANTILLY",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "264",
+      "articulo": "APEROL SPRITZ",
+      "costo": 0,
+      "existencia": -17,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "273",
+      "articulo": "SOUTHWEST",
+      "costo": 0,
+      "existencia": -216,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "293",
+      "articulo": "NUTELLA GORGEOUS FLAMEADO",
+      "costo": 0,
+      "existencia": -50,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "311",
+      "articulo": "MILKSHAKE OREO",
+      "costo": 0,
+      "existencia": -46,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "313",
+      "articulo": "MILKSHAKE FRESA",
+      "costo": 0,
+      "existencia": -47,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "330",
+      "articulo": "EXTRA PAPAS FRITAS PEQUEÑA",
+      "costo": 0,
+      "existencia": -89,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "331",
+      "articulo": "EXTRA PURE DE PAPA",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "1377",
+      "articulo": "DESCORCHE",
+      "costo": 0,
+      "existencia": -5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "10498",
+      "articulo": "8 BONELESS WINGS",
+      "costo": 0,
+      "existencia": -705,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "10499",
+      "articulo": "18 BONELESS WINGS",
+      "costo": 0,
+      "existencia": -80,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "13535",
+      "articulo": "COCA 500ML",
+      "costo": 0,
+      "existencia": -6,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "14535",
+      "articulo": "1/4 MOZARELLA",
+      "costo": 0,
+      "existencia": -54,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "14539",
+      "articulo": "1/2 MOZARELLA",
+      "costo": 0,
+      "existencia": -42,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "14546",
+      "articulo": "1/4 CHEDDAR",
+      "costo": 0,
+      "existencia": -61,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "15546",
+      "articulo": "1/2 CHEDDAR",
+      "costo": 0,
+      "existencia": -52,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "15567",
+      "articulo": "EXTRA COSTILLA 200gr",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "15590",
+      "articulo": "MOUNTAIN DEW",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "15607",
+      "articulo": "ICE TEA LEMONADA",
+      "costo": 0,
+      "existencia": -614,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "16608",
+      "articulo": "HOUSTON BURGER",
+      "costo": 0,
+      "existencia": -279,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ENTRADAS-APPETIZERS",
+      "codigo": "16610",
+      "articulo": "AROS DE CEBOLLA (6)",
+      "costo": 0,
+      "existencia": -11,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "18630",
+      "articulo": "EXTRA QUESO CHEDDAR",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "18643",
+      "articulo": "EXTRA PULLED PORK (160gr)",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "19694",
+      "articulo": "DR PEPPER",
+      "costo": 22,
+      "existencia": 9,
+      "unidades": 0,
+      "valor": 198
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "19714",
+      "articulo": "AGUA CON GAS (GUITIG)",
+      "costo": 102,
+      "existencia": 3,
+      "unidades": 0,
+      "valor": 306
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "19726",
+      "articulo": "SUNDAE NUTELLA",
+      "costo": 0,
+      "existencia": -167,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "22748",
+      "articulo": "COCA CERO",
+      "costo": 57.303609,
+      "existencia": 7,
+      "unidades": 0,
+      "valor": 401.125263
+    },
+    {
+      "linea": "WAFFLES",
+      "codigo": "24754",
+      "articulo": "MILKSHAKE VAINILLA",
+      "costo": 0,
+      "existencia": -14,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LLEVAR",
+      "codigo": "24755",
+      "articulo": "VASO LLEVAR",
+      "costo": 0,
+      "existencia": -48,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "26763",
+      "articulo": "BONELESS FRIES",
+      "costo": 0,
+      "existencia": -567,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "26764",
+      "articulo": "LA KETO",
+      "costo": 0,
+      "existencia": -249,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "26773",
+      "articulo": "EXTRA POLLO",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "28818",
+      "articulo": "SANGRIA",
+      "costo": 0,
+      "existencia": -7,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "30867",
+      "articulo": "CORTESIA",
+      "costo": 0,
+      "existencia": -64,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "30868",
+      "articulo": "CHELADA",
+      "costo": 0,
+      "existencia": -16,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "30876",
+      "articulo": "ESPRESSO DOBLE",
+      "costo": 0,
+      "existencia": -4,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "31871",
+      "articulo": "SPLASHER COMMA",
+      "costo": 0,
+      "existencia": -691,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "33877",
+      "articulo": "JACKS BACON BURGUER",
+      "costo": 0,
+      "existencia": -227,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "34882",
+      "articulo": "EXTRA JACK DANIELS",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "AREPAS",
+      "codigo": "38917",
+      "articulo": "AREPA COMMA",
+      "costo": 0,
+      "existencia": -279,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "41930",
+      "articulo": "EXTRA MOSTAZA MIEL",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "41931",
+      "articulo": "EXTRA BUFALO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "41940",
+      "articulo": "KETO MOJADA",
+      "costo": 0,
+      "existencia": -482,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "42977",
+      "articulo": "DECORACION CUMPLEAÑOS",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "42981",
+      "articulo": "EXTRA BONELESS (UNIDAD)",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "FUERTES",
+      "codigo": "l5cun2579sugcdibp6k6euvf43dptx1or",
+      "articulo": "ESPECIAL PLANCHA",
+      "costo": 0,
+      "existencia": -86,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "l5e8qmbggcgnsdlfxgiwxtym4n3o9a4i",
+      "articulo": "PAPAS COMMA",
+      "costo": 0,
+      "existencia": -136,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "l73s3uvw2olhvj4lylviq23nfyfmv7k3xr",
+      "articulo": "EXTRA QUESO MOZARELLA",
+      "costo": 0,
+      "existencia": -16,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "AREPAS",
+      "codigo": "l7xkvyl8kfxjtkp1dyvg3i9qlja21q0k9",
+      "articulo": "AREPA HEN",
+      "costo": 0,
+      "existencia": -228,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "l8xp8o9h7660m8kv4ycd1kt1x1cii442t9",
+      "articulo": "VASO DE AGUA",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "l9roo6z4yewkib1vyvd4p53e02c07ldi",
+      "articulo": "LA FRANCESA",
+      "costo": 0,
+      "existencia": -137,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "ldp80hzh26d20ubjxfqj6v9s4aavy4x6r",
+      "articulo": "EXTRA QUESO AZUL",
+      "costo": 0,
+      "existencia": -4,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "lfpx3argana4jfcl2ni6tant94o6tuik9",
+      "articulo": "EXTRA FRUTA",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lh0yd8ravgc78yuj8712ljy1tlf2yb9",
+      "articulo": "CHAI LATTE FRIO",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lh0yflvhbs42jx5nvywzbcunj2nsif6r",
+      "articulo": "FRESHI (LIM MANDARINA)",
+      "costo": 0,
+      "existencia": -396,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lh0yh8ixl4ethqpja4okgbvdk3wok1emi",
+      "articulo": "LEMORANDANO",
+      "costo": 0,
+      "existencia": -94,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "lh0ywfbmvvi1pidaij6ohv4hf8r9c0udi",
+      "articulo": "BOB BURGUER",
+      "costo": 0,
+      "existencia": -149,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "lh16chothkt5qbyo8yxhksxy78xclq5mi",
+      "articulo": "DE LA CASA",
+      "costo": 0,
+      "existencia": -1068,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "SANDWICHES",
+      "codigo": "lh2f99riimc7vy9vysuvq6bk9mvbtvs4i",
+      "articulo": "PULLED PORK",
+      "costo": 0,
+      "existencia": -90,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "FUERTES",
+      "codigo": "lhbaxcilk8o9uv351kfxdf1q7k4tsatt9",
+      "articulo": "MILANESA",
+      "costo": 0,
+      "existencia": -83,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lhv92ngvm2z6me2h4iz5s02r6mkvxtj4i",
+      "articulo": "LIMONADA HIERBABUENA",
+      "costo": 0,
+      "existencia": -239,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lhwnkb915mkclkc8jrhfvjtekgc7j02j4i",
+      "articulo": "VASO CON HIELOS",
+      "costo": 0,
+      "existencia": -20,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "li4w2d87sgvkb8n1lrdr0ze2gfwh77gb9",
+      "articulo": "EXTRA AREPA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ENTRADAS-APPETIZERS",
+      "codigo": "lkcw83n73oedemmffozyagdesqf41gu8fr",
+      "articulo": "AROS DE CEBOLLA (12)",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "lox7vt7p7p1qi0bc94lh559c5cyi1wcdi",
+      "articulo": "LIMONADA MARACUYA Y MANGO",
+      "costo": 0,
+      "existencia": -539,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ENTRADAS-APPETIZERS",
+      "codigo": "lox810podkeeeamsxvg6413m9t8146lxr",
+      "articulo": "CHEESY GARLIC BREAD",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "HAMBURGUESAS",
+      "codigo": "lox8b75zb6i6i9bfsdp4in1djdet0xjemi",
+      "articulo": "EL COSTILLAR",
+      "costo": 0,
+      "existencia": -112,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POSTRES",
+      "codigo": "lpnblrgyya7e12tts9kxdlhiqvkvxtj4i",
+      "articulo": "CREPPINI NUTELLINI",
+      "costo": 0,
+      "existencia": -96,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ELECCIONES",
+      "codigo": "lq8qfs6yts1tj9l70wd71je12bv86w29",
+      "articulo": "PURE",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ELECCIONES",
+      "codigo": "lq8qfzbnx6qnt79cvsbqccc63nl2qpvi",
+      "articulo": "ENSALADA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ELECCIONES",
+      "codigo": "lq8qg604mjbh5zg8f4zydbailf03sor",
+      "articulo": "PAN DE AJO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "ls5hthgt4lrmjhseq1j0aiw9skmkdfgvi",
+      "articulo": "EXTRA PORTOBELLOS",
+      "costo": 0,
+      "existencia": -5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "ENTRADAS-APPETIZERS",
+      "codigo": "lsqrnot0k2jnfhosw8imasbbws960f6r",
+      "articulo": "HOUSE FRIES",
+      "costo": 0,
+      "existencia": -34,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "lswa6ziex6pvum8xrtn0u6uszk8lrf6r",
+      "articulo": "PAPAS JPS",
+      "costo": 0,
+      "existencia": -17,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "lswcj1z76pyn51dwo9dhoj1beaojiw9udi",
+      "articulo": "PAPAS MOJADAS",
+      "costo": 0,
+      "existencia": -162,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "lu1j9eds8zdsd3nm89lpjgoc0dhm48ia4i",
+      "articulo": "EXTRA PIÑA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "lu38cijugvyi2bl87wzla9glkrhtfn7b9",
+      "articulo": "ALIMENTACION",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POSTRES",
+      "codigo": "ex9a4i",
+      "articulo": "PREPARAR POSTRE",
+      "costo": 0,
+      "existencia": -16,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "kkpgb9",
+      "articulo": "TORO NEGRO 330ml",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "1qyqfr",
+      "articulo": "SOMMER 330ml",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "m9ggb9",
+      "articulo": "DRAGON ROJOo 330ml",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "b0rudi",
+      "articulo": "VULKAN 330ml",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POSTRES",
+      "codigo": "t3mcxr",
+      "articulo": "CUMPLEAÑOS",
+      "costo": 0,
+      "existencia": -173,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "we9udi",
+      "articulo": "8 ALITAS",
+      "costo": 0,
+      "existencia": -174,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "0442t9",
+      "articulo": "14 ALITAS",
+      "costo": 0,
+      "existencia": -31,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "rdlsor",
+      "articulo": "20 ALITAS",
+      "costo": 0,
+      "existencia": -18,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "51m7vi",
+      "articulo": "Menu navideño 1 proteina",
+      "costo": 0,
+      "existencia": -30,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "umobt9",
+      "articulo": "PORCION COSTILLA 200 GR",
+      "costo": 1.78,
+      "existencia": 39,
+      "unidades": 0,
+      "valor": 69.42
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "3bx1or",
+      "articulo": "PORCION ENSALADA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "7jh5mi",
+      "articulo": "PORCION PAPAS  CONGELADAS PARA FREIR",
+      "costo": 0,
+      "existencia": -941,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "h8h0k9",
+      "articulo": "PORCION LOMO 220 GR",
+      "costo": 2.25,
+      "existencia": 25,
+      "unidades": 0,
+      "valor": 56.25
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ic0udi",
+      "articulo": "PORCION DE  BONELESS UNID",
+      "costo": 1.181176,
+      "existencia": 850,
+      "unidades": 0,
+      "valor": 1003.9996
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "5asjor",
+      "articulo": "PORCION DE CHORIZO DE FINAS HIERBAS",
+      "costo": 0,
+      "existencia": -284,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "81714i",
+      "articulo": "PORCION POLLO 120 GR",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "s3jtt9",
+      "articulo": "PORTOBELLO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "774x6r",
+      "articulo": "LAMINA JAMON",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "woecdi",
+      "articulo": "LAMINA MOZARELLA",
+      "costo": 0,
+      "existencia": -72,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "758kt9",
+      "articulo": "PORCION CERDO MECHADA 60 GR",
+      "costo": 0,
+      "existencia": -162,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "307ldi",
+      "articulo": "PAN  HAMBURGUESA",
+      "costo": 0,
+      "existencia": -92,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "azia4i",
+      "articulo": "CARNE HAMBURGUESA",
+      "costo": 7.136781,
+      "existencia": 87,
+      "unidades": 0,
+      "valor": 620.899947
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "3vj9k9",
+      "articulo": "PORCION DE TOCINETA AHUMADA",
+      "costo": 0,
+      "existencia": -782,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ju4n29",
+      "articulo": "ARO DE CEBOLLA",
+      "costo": 0,
+      "existencia": -185,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "gam7vi",
+      "articulo": "PORCION CHEDAR LIQUIDO 5 GR",
+      "costo": 0,
+      "existencia": -994,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "zg2e29",
+      "articulo": "PORCION DE QUESO CHEDDAR LONJA",
+      "costo": 0,
+      "existencia": -403,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "i5p14i",
+      "articulo": "MOZARELLA KETO 40 GR",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "b2csor",
+      "articulo": "PORCION PIÑA HAMBUR.",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "xb6gvi",
+      "articulo": "HUEVO UNIDAD",
+      "costo": 0,
+      "existencia": -36,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ojq0k9",
+      "articulo": "RIPIO DE PAPA PORCION",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "jf9a4i",
+      "articulo": "PORCION LECHUGA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "09t3xr",
+      "articulo": "PORCION DE CARNE MECHADA",
+      "costo": 1.89,
+      "existencia": 9,
+      "unidades": 0,
+      "valor": 17.01
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "fwp14i",
+      "articulo": "ALITA UNIDAD",
+      "costo": 0,
+      "existencia": -2213,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "dcmcxr",
+      "articulo": "AREPA 180GR",
+      "costo": 0.18,
+      "existencia": 52,
+      "unidades": 0,
+      "valor": 9.36
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "zumcxr",
+      "articulo": "PAN SANDWICH",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "7tlnmi",
+      "articulo": "PORCION GUACAMOLE AREPA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "s1c3di",
+      "articulo": "PORCION QUESO MOZARELLA BLOQUE",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LLEVAR",
+      "codigo": "p3c8fr",
+      "articulo": "LLEVAR DOMICILIO",
+      "costo": 0,
+      "existencia": -983,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COMBOS COMMA",
+      "codigo": "ucjtt9",
+      "articulo": "COMBO 15$",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "5j0pb9",
+      "articulo": "CAPUCCINO SABORES",
+      "costo": 0,
+      "existencia": -31,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "rm5cdi",
+      "articulo": "LIMONADA DE MANZANA",
+      "costo": 0,
+      "existencia": -66,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS CALIENTES",
+      "codigo": "71ra4i",
+      "articulo": "CHAI LATTE CALIENTE",
+      "costo": 0,
+      "existencia": -38,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LLEVAR",
+      "codigo": "1dzpvi",
+      "articulo": "PREPARAR LLEVAR",
+      "costo": 0,
+      "existencia": -25,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "zme7b9",
+      "articulo": "RASPBERRY LATTE",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "tsxlxr",
+      "articulo": "DOMI BONELESS FRIES",
+      "costo": 0,
+      "existencia": -21,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "rn3ik9",
+      "articulo": "DOMI SMOKED FRIES",
+      "costo": 0,
+      "existencia": -14,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "h1714i",
+      "articulo": "DOMI BACON MADNESS",
+      "costo": 0,
+      "existencia": -14,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "pw4s4i",
+      "articulo": "DOMI KETO MOJADA",
+      "costo": 0,
+      "existencia": -5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "g74x6r",
+      "articulo": "DOMI AREPA COMMA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "hy3nmi",
+      "articulo": "DOMI DE LA CASA",
+      "costo": 0,
+      "existencia": -9,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "7ta9k9",
+      "articulo": "DOMI BOB BURGUER",
+      "costo": 0,
+      "existencia": -5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "l6usor",
+      "articulo": "DOMI JACKS BACON BURGUER",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "fe0zfr",
+      "articulo": "DOMI EL COSTILLAR",
+      "costo": 0,
+      "existencia": -2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "cw61or",
+      "articulo": "DOMI COMMA FRIES",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "zk6gvi",
+      "articulo": "DOMI CHERVSKER",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "w5ewmi",
+      "articulo": "DOMI FERRERO",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "c680k9",
+      "articulo": "ICED LATTE",
+      "costo": 0,
+      "existencia": -34,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "jjdcxr",
+      "articulo": "ICED CREAM LATTE",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "b73nmi",
+      "articulo": "AREQUIPE FRAPUCCINO",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "ot7qfr",
+      "articulo": "CHICKEN & WAFFLE",
+      "costo": 0,
+      "existencia": -33,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "vgf1or",
+      "articulo": "AMERICAN BREAKFAST",
+      "costo": 0,
+      "existencia": -108,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "qk6gvi",
+      "articulo": "CHICAGO TOASTS",
+      "costo": 0,
+      "existencia": -20,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "nvzpvi",
+      "articulo": "HUEVOS RANCHEROS",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "bfn7b9",
+      "articulo": "TEX MEX QUESADILLAS",
+      "costo": 0,
+      "existencia": -19,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "3cv7vi",
+      "articulo": "SALMON TOAST",
+      "costo": 0,
+      "existencia": -8,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "eyu8fr",
+      "articulo": "EXOTIC BOWL",
+      "costo": 0,
+      "existencia": -4,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "blz0k9",
+      "articulo": "GARLIC CHICKEN OMELETTE",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "msra4i",
+      "articulo": "MEXICAN OMELETTE",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "m8ia4i",
+      "articulo": "ALL THE MEATS OMELETTE",
+      "costo": 0,
+      "existencia": -4,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "ce4s4i",
+      "articulo": "VEGGIE OMELETTE",
+      "costo": 0,
+      "existencia": -10,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "hlrf6r",
+      "articulo": "FRENCH TOAST X1",
+      "costo": 0,
+      "existencia": -19,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "bh85mi",
+      "articulo": "FRENCH TOAST X2",
+      "costo": 0,
+      "existencia": -10,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "9daemi",
+      "articulo": "PANCAKES",
+      "costo": 0,
+      "existencia": -8,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "5idx6r",
+      "articulo": "CHICKEN CHIPOTLE SANDWICH",
+      "costo": 0,
+      "existencia": -23,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "29be29",
+      "articulo": "PANCAKES DESAYUNO",
+      "costo": 0,
+      "existencia": -41,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "4cmcxr",
+      "articulo": "FRENCH TOAST DESAYUNO",
+      "costo": 0,
+      "existencia": -58,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "4k7qfr",
+      "articulo": "HAWAIAN WAVE",
+      "costo": 0,
+      "existencia": -42,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "ceg66r",
+      "articulo": "LYNCHBURG LEMONADE",
+      "costo": 0,
+      "existencia": -8,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "oc4n29",
+      "articulo": "GIN AND TONIC FRESH ROSE",
+      "costo": 0,
+      "existencia": -19,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "idaemi",
+      "articulo": "SALTED CARAMEL CAIPIRINHA",
+      "costo": 0,
+      "existencia": -24,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "oh6w29",
+      "articulo": "SMOKREAM",
+      "costo": 0,
+      "existencia": -12,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "zy3nmi",
+      "articulo": "GODFATHER",
+      "costo": 0,
+      "existencia": -19,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "6xyldi",
+      "articulo": "NY SOUR",
+      "costo": 0,
+      "existencia": -13,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "mbzkt9",
+      "articulo": "MOSCOW MULE",
+      "costo": 0,
+      "existencia": -41,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "3zyqfr",
+      "articulo": "NEGRONI",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "59izfr",
+      "articulo": "TOASTED MARSHMALLOW MARGARITA",
+      "costo": 0,
+      "existencia": -50,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "7919k9",
+      "articulo": "DOMI AREPA HEN",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "x561or",
+      "articulo": "DOMI KINDER ROLL",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "v4e7b9",
+      "articulo": "PORCION DE HUEVOS",
+      "costo": 0,
+      "existencia": -3,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "x1dcxr",
+      "articulo": "PORCION PAN MASA MADRE",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "qcl3di",
+      "articulo": "DOMI TORO NEGRO 330ML",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "8lg14i",
+      "articulo": "EXTRA HASHBROWN (6)",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PEDIDOS YA / UBER EATS",
+      "codigo": "y833di",
+      "articulo": "DOMI 1/2 LIBRA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "q69a4i",
+      "articulo": "USO DE INSTALACIONES",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "dyrpb9",
+      "articulo": "CAFE EN GRANO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "t3ayvi",
+      "articulo": "LECHE ENTERA",
+      "costo": 0,
+      "existencia": -43,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "oav2t9",
+      "articulo": "PORCION CREMA DE CACAO PREPARADA",
+      "costo": 0,
+      "existencia": -43,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "wka9k9",
+      "articulo": "CACAO EN POLVO",
+      "costo": 0,
+      "existencia": -43,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "5n4s4i",
+      "articulo": "MARSHMALLOWS",
+      "costo": 0,
+      "existencia": -172,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "v3g14i",
+      "articulo": "SOBRE DE INFUSION",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "nqxgvi",
+      "articulo": "ZUMO DE LIMON",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "fcrf6r",
+      "articulo": "JARABE MONIN BOMBEO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "t0ggb9",
+      "articulo": "LICOR DE CACAO 1/2 OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "rkke29",
+      "articulo": "HIELO 150G",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ig4x6r",
+      "articulo": "PORCION 7UP",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "0c0udi",
+      "articulo": "ZUMO DE MANDARINA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "uo9a4i",
+      "articulo": "PORCION HIERBABUENA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "4qjjor",
+      "articulo": "GUACAMOLE HAMBURGUESA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "4w8kt9",
+      "articulo": "VODKA OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "g833di",
+      "articulo": "PORCION AGUA TONICA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "bq33di",
+      "articulo": "GIN OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "zpk3xr",
+      "articulo": "VERMOUTH ROSSO OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "603sor",
+      "articulo": "FIERO OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "vdvx6r",
+      "articulo": "WHISKY OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "euerk9",
+      "articulo": "CLARA DE HUEVO",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "18m2t9",
+      "articulo": "VINO TINTO OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "r96bt9",
+      "articulo": "AMARETTO OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "8fflxr",
+      "articulo": "VINO ESPUMOSO OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "dz33di",
+      "articulo": "GUITIG PORCION",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ok1emi",
+      "articulo": "TRIPLE SEC OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "v8ia4i",
+      "articulo": "RON OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "cul3di",
+      "articulo": "CURACAO AZUL OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "dvaemi",
+      "articulo": "JUGO DE PIÑA OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "o8ncdi",
+      "articulo": "TEQUILA OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "all3di",
+      "articulo": "MEZCLA 3 LECHES OZ",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "eo2yb9",
+      "articulo": "BEBIDA CALIENTE DESAYUNO",
+      "costo": 0,
+      "existencia": -85,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "DESAYUNOS",
+      "codigo": "fm9529",
+      "articulo": "BEBIDA FRIA DESAYUNO",
+      "costo": 0,
+      "existencia": -90,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "qsq0k9",
+      "articulo": "EXTENSION DE HORARIO 30MIN",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "PARA COMPARTIR",
+      "codigo": "e5ewmi",
+      "articulo": "Menu navideño 2 proteinas",
+      "costo": 0,
+      "existencia": -159,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COMBOS COMMA",
+      "codigo": "4sra4i",
+      "articulo": "COMBO $12",
+      "costo": 0,
+      "existencia": -11,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "EXTRA",
+      "codigo": "l59udi",
+      "articulo": "DESCUENTO 5%",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POR TEMPORADA",
+      "codigo": "46ajor",
+      "articulo": "TOSTADA CORTESIA",
+      "costo": 0,
+      "existencia": -23,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POR TEMPORADA",
+      "codigo": "wqm2t9",
+      "articulo": "QUESADILLA CORTESIA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ctbj4i",
+      "articulo": "PORCION WAFFLE 55G",
+      "costo": 0,
+      "existencia": -258,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "wbqpvi",
+      "articulo": "PORCION NUTELLA 40G",
+      "costo": 0,
+      "existencia": -406,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "cgnwmi",
+      "articulo": "PORCION FRESA 60GR",
+      "costo": 0,
+      "existencia": -404,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "pkqpvi",
+      "articulo": "PORCION HELADO 25GR",
+      "costo": 0,
+      "existencia": -911,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "9cz0k9",
+      "articulo": "PORCION MORA 2UND",
+      "costo": 0,
+      "existencia": -75,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "c15rk9",
+      "articulo": "PORCION CHANTILLY 25GR",
+      "costo": 0,
+      "existencia": -250,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "zq6w29",
+      "articulo": "FERRERO 1UND",
+      "costo": 0,
+      "existencia": -36,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "wfusor",
+      "articulo": "RAFAELLO 1UND",
+      "costo": 0,
+      "existencia": -36,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "2wqaor",
+      "articulo": "KINDER BARRA 1UND",
+      "costo": 0,
+      "existencia": -231,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "tyy14i",
+      "articulo": "KINDER BUENO 1UND",
+      "costo": 0,
+      "existencia": -36,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "57y14i",
+      "articulo": "AZUCAR IMPALPABLE 1GR",
+      "costo": 0,
+      "existencia": -243,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "njc3di",
+      "articulo": "PORCION CHOCOLATE BLANCO 20GR",
+      "costo": 0,
+      "existencia": -49,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "4l5wmi",
+      "articulo": "PORCION CREPE 150GR",
+      "costo": 0,
+      "existencia": -182,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "4a38fr",
+      "articulo": "PORCION MERMELADA 60GR",
+      "costo": 0,
+      "existencia": -13,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "rcc8fr",
+      "articulo": "PORCION ARANDANOS 30G",
+      "costo": 0,
+      "existencia": -9,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "o647vi",
+      "articulo": "MOJADO DE CHOCOLATE 250GR",
+      "costo": 0,
+      "existencia": -27,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "hwipb9",
+      "articulo": "MASA VOLCAN UND",
+      "costo": 0,
+      "existencia": -27,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "u6usor",
+      "articulo": "PORCION DE CEBOLLA CARAMELIZADA",
+      "costo": 0,
+      "existencia": 5696,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "3k57b9",
+      "articulo": "PORCION SALSA MIEL Y MOSTAZA",
+      "costo": 0,
+      "existencia": 4827,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "nx9a4i",
+      "articulo": "PORCION DE SALSA DE JACK DANIEL",
+      "costo": 0,
+      "existencia": 3212,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "s2x1or",
+      "articulo": "PORCION DE SALSA BQQ",
+      "costo": 0,
+      "existencia": 344,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "q2gldi",
+      "articulo": "PORCION DE PURE DE PAPA",
+      "costo": 0,
+      "existencia": 17,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "ibpgb9",
+      "articulo": "PORCION DE POLLO MILANESA",
+      "costo": 0,
+      "existencia": 2,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "8gds4i",
+      "articulo": "PORCION AREPA",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "vk7qfr",
+      "articulo": "PORCION DE PASTA DE TOMATE",
+      "costo": 0,
+      "existencia": 187,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "wdygb9",
+      "articulo": "PORCION POLLO MEDALLONES",
+      "costo": 0,
+      "existencia": 40,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "vmquxr",
+      "articulo": "PRODUCCION ALITAS",
+      "costo": 0,
+      "existencia": 200,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "MATERIA PRIMA",
+      "codigo": "5lv7vi",
+      "articulo": "RECETA MAYONESAS",
+      "costo": 0,
+      "existencia": 5,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "COCTELES",
+      "codigo": "4p9zfr",
+      "articulo": "SMOKE CREAM",
+      "costo": 0,
+      "existencia": 0,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "BEBIDAS",
+      "codigo": "74lsor",
+      "articulo": "ESPECIAL CERVEZA",
+      "costo": 0,
+      "existencia": -8,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "POSTRES",
+      "codigo": "v7k3xr",
+      "articulo": "2X1 POSTRES",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "LICORES",
+      "codigo": "87u8fr",
+      "articulo": "DESCORCHE",
+      "costo": 0,
+      "existencia": -1,
+      "unidades": 0,
+      "valor": 0
+    },
+    {
+      "linea": "Total",
+      "codigo": "",
+      "articulo": "275",
+      "costo": 0,
+      "existencia": -9342,
+      "unidades": 0,
+      "valor": 3661.7322220000005
+    }
+  ],
+  "inventoryByLine": [
+    {
+      "line": "MATERIA PRIMA",
+      "items": 86,
+      "negative": 31,
+      "zero": 39,
+      "low": 3,
+      "value": 1776.939547
+    },
+    {
+      "line": "EXTRA",
+      "items": 34,
+      "negative": 25,
+      "zero": 9,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "BEBIDAS",
+      "items": 26,
+      "negative": 21,
+      "zero": 0,
+      "low": 4,
+      "value": 1174.4130249999998
+    },
+    {
+      "line": "DESAYUNOS",
+      "items": 22,
+      "negative": 21,
+      "zero": 1,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "PEDIDOS YA / UBER EATS",
+      "items": 16,
+      "negative": 11,
+      "zero": 5,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "PARA COMPARTIR",
+      "items": 14,
+      "negative": 14,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "HAMBURGUESAS",
+      "items": 14,
+      "negative": 14,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "COCTELES",
+      "items": 12,
+      "negative": 11,
+      "zero": 1,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "BEBIDAS CALIENTES",
+      "items": 8,
+      "negative": 8,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "LICORES",
+      "items": 8,
+      "negative": 3,
+      "zero": 4,
+      "low": 0,
+      "value": 710.37965
+    },
+    {
+      "line": "WAFFLES",
+      "items": 7,
+      "negative": 7,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "FUERTES",
+      "items": 4,
+      "negative": 4,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "AREPAS",
+      "items": 4,
+      "negative": 3,
+      "zero": 1,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "LLEVAR",
+      "items": 4,
+      "negative": 4,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "ENTRADAS-APPETIZERS",
+      "items": 4,
+      "negative": 4,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "POSTRES",
+      "items": 4,
+      "negative": 4,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "ELECCIONES",
+      "items": 3,
+      "negative": 0,
+      "zero": 3,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "COMBOS COMMA",
+      "items": 2,
+      "negative": 1,
+      "zero": 1,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "POR TEMPORADA",
+      "items": 2,
+      "negative": 1,
+      "zero": 1,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "SANDWICHES",
+      "items": 1,
+      "negative": 1,
+      "zero": 0,
+      "low": 0,
+      "value": 0
+    },
+    {
+      "line": "Total",
+      "items": 1,
+      "negative": 1,
+      "zero": 0,
+      "low": 0,
+      "value": 3661.7322220000005
+    }
+  ]
+}
